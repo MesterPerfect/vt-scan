@@ -1,5 +1,4 @@
 #!/bin/bash
-#!/bin/bash
 # Current functionality:
 #  - Submit a file object to be scanned by VT
 #  - Retrieve a scan report from VT
